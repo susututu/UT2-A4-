@@ -9,7 +9,7 @@ Este proyecto es un formulario HTML que permite a los usuarios de un centro depo
 - Rendimiento del entrenamiento
 
 [Ver formulario](https://susuaguilar.neocities.org/formulario/)
-[Ver formulario en Neocities](danielgonzalezvelez.neocities.org/formulario/)
+[Ver formulario en Neocities](https://danielgonzalezvelez.neocities.org/formulario/)
 
 ## Integrantes del equipo
 - Suuyon Aguilar Chang
